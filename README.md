@@ -1,2 +1,6 @@
-# CzoGruvbox64
-Czo Gruvbox64 Theme for firefox and chrome
+# Czo Gruvbox64 Theme
+
+- Gruvbox Theme for Chromium and Firefox
+
+![Img Czo Gruvbox64 Theme](/store/ff-czo-gruvbox64.png)
+
