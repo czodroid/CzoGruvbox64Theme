@@ -1,19 +1,19 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Czo Gruvbox64 Theme",
-  "version": "1.4",
+  "version": "1.5",
   "theme": {
     "colors": {
-      "toolbar": [80, 73, 69],
+      "toolbar": [60, 56, 54],
       "frame": [40, 40, 40],
       "ntp_background": [40, 40, 40],
       "ntp_text": [251, 241, 199],
       "tab_text": [251, 241, 199],
-      "bookmark_text": [235, 219, 178],
-      "tab_background_text": [235, 219, 178],
-      "tab_background_text_inactive": [235, 219, 178],
-      "tab_background_text_incognito": [235, 219, 178],
-      "tab_background_text_incognito_inactive": [235, 219, 178]
+      "bookmark_text": [251, 241, 199],
+      "tab_background_text": [201, 183, 136],
+      "tab_background_text_inactive": [201, 183, 136],
+      "tab_background_text_incognito": [201, 183, 136],
+      "tab_background_text_incognito_inactive": [201, 183, 136]
     },
     "tints": {
       "buttons": [0.12, 0.9, 0.8],
